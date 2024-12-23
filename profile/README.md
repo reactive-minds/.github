@@ -38,6 +38,6 @@ Nosso foco principal está em stacks modernas como:
 ---
 
 ## 📬 Contato  
-Caso queira falar conosco, envie uma mensagem para o e-mail: **reactive.minds.team@example.com** ou procure nossa comunidade em plataformas como o GitHub e Discord.
+Caso queira falar conosco, envie uma mensagem para o e-mail: **solmakertech@gmail.com** ou procure nossa comunidade em plataformas como o GitHub e Discord.
 
 > "Reactive Minds: Codando ideias, moldando o futuro."  
