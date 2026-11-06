@@ -1,4 +1,4 @@
-# Reactive Minds 🚀  
+# Reactive Minds 🚀
 Bem-vindo à **Reactive Minds**, uma comunidade dedicada ao aprendizado contínuo e à exploração de tecnologias modernas de desenvolvimento!  
 
 ---
@@ -22,7 +22,10 @@ Nosso objetivo é compartilhar conhecimento, resolver problemas reais e criar so
 ---
 
 ## 🚀 Como Participar  
-Infelizmente, os repositórios da **Reactive Minds** são privados e acessíveis apenas aos membros da nossa organização. Porém, estamos sempre abertos a novas colaborações e parcerias!  
+Nosso projeto **open source** de referência é o **Fortify Finance** — SaaS de gestão financeira multi-tenancy com rateio de faturas por membro (NestJS · Next.js 16 · Expo · PostgreSQL):  
+👉 [github.com/reactive-minds/fortify-finance](https://github.com/reactive-minds/fortify-finance)
+
+Demais repositórios são privados e acessíveis apenas aos membros da organização — mas estamos sempre abertos a novas colaborações e parcerias!  
 
 Se você está interessado(a) em saber mais sobre o grupo ou em se juntar à equipe, envie-nos uma mensagem ou procure por um de nossos integrantes.  
 
@@ -40,4 +43,4 @@ Nosso foco principal está em stacks modernas como:
 ## 📬 Contato  
 Caso queira falar conosco, envie uma mensagem para o e-mail: **solmakertech@gmail.com** ou procure nossa comunidade em plataformas como o GitHub e Discord.
 
-> "Reactive Minds: Codando ideias, moldando o futuro."  
+> "Reactive Minds: Codando ideias, moldando o futuro."
